@@ -11,10 +11,14 @@
     margin: 30px;
 }
 .yellow {
-    padding:50px;
-    margin:20px;
+    padding:20px;
+    margin:10px;
     background-color:yellow;
 }
 .flex {
     display:flex;
+}
+.red {
+    background-color: red;
+    padding-right:80px;
 }
