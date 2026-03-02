@@ -1,0 +1,20 @@
+
+.purple{
+    background-color: purple;
+    display:flex;
+    justify-content: center;
+    padding:30px;
+}
+.blue {
+    background-color: blue;
+    padding:20px;
+    margin: 30px;
+}
+.yellow {
+    padding:50px;
+    margin:20px;
+    background-color:yellow;
+}
+.flex {
+    display:flex;
+}
